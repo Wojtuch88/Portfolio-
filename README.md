@@ -10,7 +10,7 @@
 * [SOFT SKILLS](#soft-skills)
 
 
-## General info
+## ABOUT ME
 This project is simple Lorem ipsum dolor generator.
 	
 ## Technologies
