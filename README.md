@@ -12,10 +12,10 @@ During my work I have learned: **SQL**, **API**, **Chrome DevTools**, **Jira**, 
  [YOU CAN FIND MY PROFILE AT LINKEDIN](https://www.linkedin.com/in/wojciech-kasprzyk88/)
 
 
+
+
+# :arrow_right:  <p style="text-align: justify"> **PROJECTS** </p>
 ![4989831](https://github.com/user-attachments/assets/5444c93c-7db4-49e0-a307-6c1bc5f130b3)
-
-# :arrow_right: **PROJECTS**
-
 ### :one: Utest - commercial project
 <small>(August 2022 - September 2022)</small>
 
