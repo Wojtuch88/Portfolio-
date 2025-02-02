@@ -261,7 +261,8 @@ At the end of the course you had to pass a project to test a fake bank website. 
 [**Link to Kapu$ta project**](https://drive.google.com/drive/folders/19h5aEqSD9ipnvn496KrO-44cxWiIeCoq?usp=drive_link)
 
 <b>***Certificate from the course:***</b>
-![](../Downloads/Wojciech%20Kasprzyk%20%20-%20certyfikat.jpg)
+![Wojciech Kasprzyk  - certyfikat](https://github.com/user-attachments/assets/7c9eac13-b3db-495f-9387-25883e312dab)
+
 
 ## :two: POSTMAN - Rest API testing - Udemy
 
