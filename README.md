@@ -19,14 +19,14 @@ During my work I have learned: **SQL**, **API**, **Chrome DevTools**, **Jira**, 
 ## :one: Utest - commercial project
 <small>(August 2022 - September 2022)</small>
 
-## Table of contents
+### Table of contents
 * [General info](#general-info)
 * [Project Scope](#setup)
 
-## General info
+### General info
 * |​-The project involved exploratory testing of an application for adding data to a system. I worked in an international team of more than 20 people and reported directly to the Team Test Manager. <u>My role was to conduct exploratory and functional testing to verify the correct operation of the application</u>. As part of the project, I developed test cases that covered various use cases. <u>I tested the application in different environments and use conditions, and as a result, my work contributed to the elimination of bugs</u>, which increased the usability of the application to users.-​|
 
-## Project Scope
+### Project Scope
 *  :white_check_mark: Learning about exploratory testing
 *  :white_check_mark: Learning about functional testing
 *  :white_check_mark: Learning to write bugs reports
@@ -34,16 +34,16 @@ During my work I have learned: **SQL**, **API**, **Chrome DevTools**, **Jira**, 
 ## :two:  AK1944 - Testing of web page - commerial project
 <small>(November 2024 - ongoing)</small>
 
-## Table of contents
+### Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Project Scope](#setup)
 * [List of completed tasks](#list-of-completed-tasks)
 
-## General info
+### General info
 * -​|The goal of the project was to test the functionality and performance of the website. Testing was aimed at detecting potential bugs, correcting the user interface and optimizing the site's performance. During testing, I used the following types of tests: functional, usability, performance and compatibility. As a tester, my role was to conduct all the aforementioned tests and document the results. I worked closely with the development team. My tasks also included creating test reports, identifying bugs and reporting them for improvement. Concerned with the quality and usability of the site, I worked with the team to resolve the problems detected and ensure that the site was fully functional and ready for public use.-​|
 
-## Technologies
+### Technologies
 Project is created with:
 * Clickup 
 * Trello
@@ -51,32 +51,32 @@ Project is created with:
 * Share X 
 * Postman
 	
-## Project Scope
+### Project Scope
 * :+1: Communication with development team and client
 * :+1: Learning about functional testing
 * :+1: Learning about performance and usability testing
 * :+1: Learning to use tools to mange test scenarious
 * :+1: Learning to write bugs reports
 
-## List of completed tasks 
+### List of completed tasks 
 In progress
 
 ## :three:  Project Kapu$ta
 <small>(March 2022 - July 2022)</small>
 
-## Table of contents
+### Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Project Scope](#setup)
 * [Test Plan](#test-plan)
 * [List of completed tasks](#list-of-completed-tasks)
 
-## General info
-* -​|The work involved manual testing of a banking application. The application was used by customers to manage bank accounts, make transfers, view transaction history and other banking operations. My role was to perform <u>functional testing</u> to ensure that all functions of the application worked as required. As part of the project, I prepared <u>test scenarios for key functions of the application</u>: login, transfers, account management. I reported the bugs I found directly to the mentor, who evaluated the work.-​|
+### General info
+* The work involved manual testing of a banking application. The application was used by customers to manage bank accounts, make transfers, view transaction history and other banking operations. My role was to perform <u>functional testing</u> to ensure that all functions of the application worked as required. As part of the project, I prepared <u>test scenarios for key functions of the application</u>: login, transfers, account management. I reported the bugs I found directly to the mentor, who evaluated the work.
 
 [**Link to functional specification**](https://docs.google.com/spreadsheets/d/142uLph3ahdORQ-2q3kC1SgwVxa-NeoTXJ7m5UKQW0tc/edit?gid=0#gid=0)
 	
-## Technologies
+### Technologies
 Project is created with:
 * Testlink 
 * Excel
@@ -86,7 +86,7 @@ Project is created with:
 * Share X 
 * Postman
 	
-## Project Scope
+### Project Scope
 * :+1: Learning about exploratory testing
 * :+1: Learning about functional testing
 * :+1: Learning about performance and usability testing
@@ -94,10 +94,10 @@ Project is created with:
 * :+1: Learning to write bugs reports
 * :+1: Getting to know Postman and working with API
   
-## Test Plan
+### Test Plan
 [**Link to Test Plan for project Kapu$ta**](https://docs.google.com/document/d/1-60u1lKJpuyK2SoIQac2bLj-JyARjuY1/edit?usp=drive_link&ouid=107537541248058964090&rtpof=true&sd=true)
 
-## List of completed tasks 
+### List of completed tasks 
 * [ ] **Positive Tests**
 * [Positive Test](https://docs.google.com/spreadsheets/d/1EAG6Gs3yoxI0CazaF1SYpBUntQJn7s98SfeQ5ePo9XA/edit?gid=1800097845#gid=1800097845)
 * [ ] **Negative Tests** 
@@ -109,25 +109,25 @@ Project is created with:
 * [ ] Logs and screens from Jmeter
 * [ ] Screens from Jira with Bug reports
 
-### :four: COLT organised by Cherry-IT - collaborative testing - using Devtolls 
+## :four: COLT organised by Cherry-IT - collaborative testing - using Devtolls 
 
-## Table of contents
+### Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Project Scope](#setup)
 * [Link to the website](#website)
 
-## General info
+### General info
 * The work in this project was directly related to the work with devtools - Devtools. Thanks to the tools, I learned to effectively use various functions: network analysis, monitoring of resource consumption, but the key aspect was the analysis, detection and resolution of errors. In addition, at work I used the Jira tool for error reporting and creating reports, and the work system was based on Daily.  
 
-## Technologies
+### Technologies
 Project is created with:
 * Trello
 * Devtools
 * Pick Pick
 * Share X 
 
-## Project Scope
+### Project Scope
 * :+1: Learning about exploratory testing
 * :+1: Learning about functional testing
 * :+1: Learning to use devtools: reading bugs, analyzing bugs found, filtering results
@@ -138,16 +138,16 @@ Project is created with:
 
 ## :five:  Website
 
-## Table of contents
+### Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Project Scope](#setup)
 * [List of completed tasks](#list-of-completed-tasks)
 
-## General info
+### General info
 * A simple website that was created using HTML and CSS. In addition, I used Visual Studio Code tool while working. By clicking on the project name, you can preview the result of the work. 
 
-## Technologies
+### Technologies
 Project is created with:
 * HTML 
 * CSS
@@ -159,73 +159,77 @@ Project is created with:
 * :+1: Learning to use Studio Visual Code
 * :+1: Learning of best practice of creating the website
 
-## List of completed tasks 
+### List of completed tasks 
 * [ ] **Screen of HTML**
 
-![Screen of HTML code - screen nr 1]
+[Screen of HTML code - screen nr 1]
 ![2025-01-30 17 02 35](https://github.com/user-attachments/assets/b4813ce7-27ef-478c-863a-755f8944f04a)
 
 
-![Screen nr 2]
+[Screen nr 2]
 ![2025-01-30 17 04 50](https://github.com/user-attachments/assets/280c7099-d253-4626-ab89-08bd9d1845f1)
 
-![Screen nr 3]
+[Screen nr 3]
 ![2025-01-30 17 05 56](https://github.com/user-attachments/assets/5ddc279c-d7f4-424c-be47-eb267ee0f2e9)
 
-![Screen nr 4]
+[Screen nr 4]
 ![2025-01-30 17 06 28](https://github.com/user-attachments/assets/cb67db4a-8ca2-41c8-b6e0-9dee9755e618)
 
-![Screen nr 5]
+[Screen nr 5]
 ![2025-01-30 17 07 04](https://github.com/user-attachments/assets/7d4a315d-e98a-4d61-a05a-0385b2951a5d)
 
-![Scrren nr 6]
+[Scrren nr 6]
 ![2025-01-30 17 07 30](https://github.com/user-attachments/assets/5086c628-e412-4644-9707-78c1ee76054a)
 
-![Screen nr 7]
+[Screen nr 7]
 ![2025-01-30 17 07 59](https://github.com/user-attachments/assets/d858a76b-c166-4347-93c8-3c9cff55b932)
 
-![Screen nr 8]
+[Screen nr 8]
 ![2025-01-30 17 08 31](https://github.com/user-attachments/assets/f3349e87-0ac0-4921-adda-3eeba3082d92)
 
 
 * [ ] **Screen of CSS** 
 
-![Screen nr 1]
+[Screen nr 1]
 ![2025-01-30 17 21 17](https://github.com/user-attachments/assets/57c6ceaf-cc93-4a71-9a25-b7492a818bf0)
 
-![Screen nr 2]
+[Screen nr 2]
 ![2025-01-30 17 22 16](https://github.com/user-attachments/assets/eaffc40e-bc7c-49a7-996c-e517143b066b)
 
-![Screen nr 3]
+[Screen nr 3]
 ![2025-01-30 17 22 52](https://github.com/user-attachments/assets/1462b13f-e5ce-4d87-a05d-73e9d8ca4908)
 
-![Screen nr 4]
+[Screen nr 4]
 ![2025-01-30 17 23 22](https://github.com/user-attachments/assets/ae86ea3b-36e0-484e-8955-d25649532bea)
 
-![Screen nr 5]
+[Screen nr 5]
 ![2025-01-30 17 23 51](https://github.com/user-attachments/assets/7c956a71-5d23-479a-bbb3-8c123ba08d13)
 
 
 
 ## :six: Website
 
-* [ ][**Simple website based on HTML and CSS code witv CV resume. Click on the link to see the result.**](https://665dbdf2c001c36aeae43ac3--bucolic-genie-42f1e7.netlify.app/)
+* [**Simple website based on HTML and CSS code witv CV resume. Click on the link to see the result.**](https://665dbdf2c001c36aeae43ac3--bucolic-genie-42f1e7.netlify.app/)
 
 &#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;&#8209;
 
+
 # :arrow_right: **COURSES - WHAT I'VE LEARNED**
+
+![20944394](https://github.com/user-attachments/assets/603f1809-4291-45f0-96ca-56a7387df4cf)
+
 
 ## :one:  QA Engineer - GoIT company course
 <small>(Ferbruary 2022 - July 2022)</small>
 
-## Skills
+### Skills
 * Testing basic - theory and practice
 * Test management 
 * API testing
 * SQL
 * Supporting test support devices and error reporting: Jira, Confluence, Testrail, Postman
 
-## General info
+### General info
 During the course, I learned about the basic principles of manual testing, requirements analysis techniques and methods for detecting errors in applications. The course included both theory and practical exercises, thanks to which I acquired the skills needed to perform testing in various environments. 
 During the course I explored the following topics:
 * Qa engineer - what does he do
@@ -261,7 +265,7 @@ At the end of the course you had to pass a project to test a fake bank website. 
 
 ## :two: POSTMAN - Rest API testing - Udemy
 
-## Skills
+### Skills
 * API - theory and practice
 * POSTMAN 
 * API testing
@@ -271,7 +275,7 @@ At the end of the course you had to pass a project to test a fake bank website. 
 * Verifying if the tested API works as intended by using tests "written" in the JavaScript programming language
 * How to run our tests from the command line and why this is necessary
 
-## General info
+### General info
 The course was divided into two or three parts. In the first part, I gained theoretical knowledge about APIs, HTTP, and Postman. The second part focused on the practical use of the Postman application: sending requests, setting variables, authorizing, and an introduction to writing scripts using JavaScript. The final part was focused on practice. All skills were applied to test the Jira application in terms of its API.
 
 
@@ -288,26 +292,27 @@ What I learned:
 - Testing real web applications
 
 
-
 <b>***Certificate from the course:***</b>
-![](../Downloads/UC-3915df37-ecce-4e6a-aa77-8fc8184cb88e.jpg)
+![UC-3915df37-ecce-4e6a-aa77-8fc8184cb88e](https://github.com/user-attachments/assets/11434c77-b770-482f-b209-697bbd5fccb9)
+
 
 
 ## :three:  Recruitment questions and answers for the tester - Udemy
 
 <b>***Certificate from the course:***</b>
-![](../Downloads/UC-ab015fa9-1cf3-4b99-b7d6-801bf08c525c.jpg)
+![UC-ab015fa9-1cf3-4b99-b7d6-801bf08c525c](https://github.com/user-attachments/assets/c03caa98-a357-4145-abc3-560bc6fbd735)
+
 
 ## :four:  7-Day Marathon HTML+CSS - GoIT
 
-## Skills
+### Skills
 * Figma basics
 * Visual Studio Code basics
 * HTML basics
 * CSS styles basics
 * website project with CV example
 
-## General info
+### General info
 During a basic HTML and CSS course, I've learned many key skills that will allow to create a simple website. Here are some of the main topics typically covered:
 
 ### HTML:
@@ -332,7 +337,9 @@ The basic course provides a solid foundation that will allow to further explore 
 
 
 # ****COURSES IN PROGRESS****
-  
+![work-progress_5578536](https://github.com/user-attachments/assets/25dfe532-2337-433c-acaa-30d383fd948e)
+
+
 ##### MySQL - Creating and Managing Databases  
 ##### GIT from Basic for Everyone  
 ##### Software Testing in Practice - Bootcamp  
