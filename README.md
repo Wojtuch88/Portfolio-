@@ -14,7 +14,7 @@ During my work I have learned: **SQL**, **API**, **Chrome DevTools**, **Jira**, 
  
 # :arrow_right: **PROJECTS**
 
-### :one: Utest - commerial project
+### :one: Utest - commercial project
 <small>(August 2022 - September 2022)</small>
 
 ## Table of contents
@@ -66,6 +66,7 @@ In progress
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Project Scope](#setup)
+* [Test Plan](#test-plan)
 * [List of completed tasks](#list-of-completed-tasks)
 
 ## General info
@@ -89,14 +90,19 @@ Project is created with:
 * :+1: Learning about performance and usability testing
 * :+1: Learning to use tools to mange test scenarious
 * :+1: Learning to write bugs reports
-* :+1: Getting to know Postman and working with API 
+* :+1: Getting to know Postman and working with API
+  
+## Test Plan
+[**Link to Test Plan for project Kau$ta**]([https://docs.google.com/spreadsheets/d/142uLph3ahdORQ-2q3kC1SgwVxa-NeoTXJ7m5UKQW0tc/edit?gid=0#gid=0](https://docs.google.com/document/d/1-60u1lKJpuyK2SoIQac2bLj-JyARjuY1/edit?usp=sharing&ouid=107537541248058964090&rtpof=true&sd=true))
 
 ## List of completed tasks 
-* [ ][**Positive Tests**](https://docs.google.com/spreadsheets/d/1EAG6Gs3yoxI0CazaF1SYpBUntQJn7s98SfeQ5ePo9XA/edit?gid=1800097845#gid=1800097845)
+* [ ] **Positive Tests**
+* [Positive Test](https://docs.google.com/spreadsheets/d/1EAG6Gs3yoxI0CazaF1SYpBUntQJn7s98SfeQ5ePo9XA/edit?gid=1800097845#gid=1800097845)
 * [ ] **Negative Tests** 
 * [Logged user](https://docs.google.com/spreadsheets/d/14KyoM9X269hi9ho2OjX9v8Y57UL8MDL6eU4Uq_cWEpg/edit?usp=drive_link)
 * [Not Logged user](https://docs.google.com/spreadsheets/d/1Aq8ogedzVSGPCSgQP5j-aOIYKhAclUUwKbtkEWFYSSU/edit?usp=drive_link)
-* [ ] [**Bug Reports**](https://docs.google.com/spreadsheets/d/15OLcupziZxjCj_qUa_NqPFTKnSQW0RNwT-cDTsfXg1w/edit?usp=drive_link)
+* [ ] **Bug Reports**
+  * [Bug Reports](https://docs.google.com/spreadsheets/d/15OLcupziZxjCj_qUa_NqPFTKnSQW0RNwT-cDTsfXg1w/edit?usp=drive_link)
 * [ ] Logs and screens from Postman
 * [ ] Logs and screens from Jmeter
 * [ ] Screens from Jira with Bug reports
@@ -155,6 +161,10 @@ Project is created with:
 * [ ] **Screen of HTML**
 
 ![Screen of HTML code - screen nr 1](2025-01-30%2017%2002%2035.jpg)
+
+![2025-01-30 17 02 35](https://github.com/user-attachments/assets/b4813ce7-27ef-478c-863a-755f8944f04a)
+
+
 ![Screen nr 2](2025-01-30%2017%2004%2050.jpg)
 ![Screen nr 3](2025-01-30%2017%2005%2056.jpg)
 ![Screen nr 4](2025-01-30%2017%2006%2028.jpg)
