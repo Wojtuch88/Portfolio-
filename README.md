@@ -6,7 +6,8 @@ Why exactly a software tester and not something else? I can have an impact on th
 During my work I have learned: **SQL**, **API**, **Chrome DevTools**, **Jira**, **Trello**, **Postman**, **GIT** and **HTML/CSS basics**.
 
 
-![linkedin 2504923](file:///C:/Users/MonikaLukrecja/Downloads/linkedin_2504923.png)
+![linkedin_2504923](https://github.com/user-attachments/assets/fd0fd94b-d2e7-4f62-bf19-bf6d5011b721)
+
 
  [YOU CAN FIND MY PROFILE AT LINKEDIN](https://www.linkedin.com/in/wojciech-kasprzyk88/)
 
