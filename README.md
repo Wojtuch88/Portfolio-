@@ -24,7 +24,7 @@ During my work I have learned: **SQL**, **API**, **Chrome DevTools**, **Jira**, 
 * [Project Scope](#setup)
 
 ### General info
-* |​-The project involved exploratory testing of an application for adding data to a system. I worked in an international team of more than 20 people and reported directly to the Team Test Manager. <u>My role was to conduct exploratory and functional testing to verify the correct operation of the application</u>. As part of the project, I developed test cases that covered various use cases. <u>I tested the application in different environments and use conditions, and as a result, my work contributed to the elimination of bugs</u>, which increased the usability of the application to users.-​|
+* The project involved exploratory testing of an application for adding data to a system. I worked in an international team of more than 20 people and reported directly to the Team Test Manager. <u>My role was to conduct exploratory and functional testing to verify the correct operation of the application</u>. As part of the project, I developed test cases that covered various use cases. <u>I tested the application in different environments and use conditions, and as a result, my work contributed to the elimination of bugs</u>, which increased the usability of the application to users.
 
 ### Project Scope
 *  :white_check_mark: Learning about exploratory testing
@@ -41,7 +41,7 @@ During my work I have learned: **SQL**, **API**, **Chrome DevTools**, **Jira**, 
 * [List of completed tasks](#list-of-completed-tasks)
 
 ### General info
-* -​|The goal of the project was to test the functionality and performance of the website. Testing was aimed at detecting potential bugs, correcting the user interface and optimizing the site's performance. During testing, I used the following types of tests: functional, usability, performance and compatibility. As a tester, my role was to conduct all the aforementioned tests and document the results. I worked closely with the development team. My tasks also included creating test reports, identifying bugs and reporting them for improvement. Concerned with the quality and usability of the site, I worked with the team to resolve the problems detected and ensure that the site was fully functional and ready for public use.-​|
+* The goal of the project was to test the functionality and performance of the website. Testing was aimed at detecting potential bugs, correcting the user interface and optimizing the site's performance. During testing, I used the following types of tests: functional, usability, performance and compatibility. As a tester, my role was to conduct all the aforementioned tests and document the results. I worked closely with the development team. My tasks also included creating test reports, identifying bugs and reporting them for improvement. Concerned with the quality and usability of the site, I worked with the team to resolve the problems detected and ensure that the site was fully functional and ready for public use.
 
 ### Technologies
 Project is created with:
