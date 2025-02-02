@@ -14,9 +14,9 @@ During my work I have learned: **SQL**, **API**, **Chrome DevTools**, **Jira**, 
 
 
 
-# :arrow_right:  <p style="text-align: justify"> **PROJECTS** </p>
+# :arrow_right: |​-**PROJECTS**-​|
 ![4989831](https://github.com/user-attachments/assets/5444c93c-7db4-49e0-a307-6c1bc5f130b3)
-### :one: Utest - commercial project
+## :one: Utest - commercial project
 <small>(August 2022 - September 2022)</small>
 
 ## Table of contents
@@ -24,7 +24,7 @@ During my work I have learned: **SQL**, **API**, **Chrome DevTools**, **Jira**, 
 * [Project Scope](#setup)
 
 ## General info
-* The project involved exploratory testing of an application for adding data to a system. I worked in an international team of more than 20 people and reported directly to the Team Test Manager. <u>My role was to conduct exploratory and functional testing to verify the correct operation of the application</u>. As part of the project, I developed test cases that covered various use cases. <u>I tested the application in different environments and use conditions, and as a result, my work contributed to the elimination of bugs</u>, which increased the usability of the application to users.
+* |​-The project involved exploratory testing of an application for adding data to a system. I worked in an international team of more than 20 people and reported directly to the Team Test Manager. <u>My role was to conduct exploratory and functional testing to verify the correct operation of the application</u>. As part of the project, I developed test cases that covered various use cases. <u>I tested the application in different environments and use conditions, and as a result, my work contributed to the elimination of bugs</u>, which increased the usability of the application to users.-​|
 
 ## Project Scope
 *  :white_check_mark: Learning about exploratory testing
@@ -41,7 +41,7 @@ During my work I have learned: **SQL**, **API**, **Chrome DevTools**, **Jira**, 
 * [List of completed tasks](#list-of-completed-tasks)
 
 ## General info
-* The goal of the project was to test the functionality and performance of the website. Testing was aimed at detecting potential bugs, correcting the user interface and optimizing the site's performance. During testing, I used the following types of tests: functional, usability, performance and compatibility. As a tester, my role was to conduct all the aforementioned tests and document the results. I worked closely with the development team. My tasks also included creating test reports, identifying bugs and reporting them for improvement. Concerned with the quality and usability of the site, I worked with the team to resolve the problems detected and ensure that the site was fully functional and ready for public use.
+* -​|The goal of the project was to test the functionality and performance of the website. Testing was aimed at detecting potential bugs, correcting the user interface and optimizing the site's performance. During testing, I used the following types of tests: functional, usability, performance and compatibility. As a tester, my role was to conduct all the aforementioned tests and document the results. I worked closely with the development team. My tasks also included creating test reports, identifying bugs and reporting them for improvement. Concerned with the quality and usability of the site, I worked with the team to resolve the problems detected and ensure that the site was fully functional and ready for public use.-​|
 
 ## Technologies
 Project is created with:
@@ -72,7 +72,7 @@ In progress
 * [List of completed tasks](#list-of-completed-tasks)
 
 ## General info
-* The work involved manual testing of a banking application. The application was used by customers to manage bank accounts, make transfers, view transaction history and other banking operations. My role was to perform <u>functional testing</u> to ensure that all functions of the application worked as required. As part of the project, I prepared <u>test scenarios for key functions of the application</u>: login, transfers, account management. I reported the bugs I found directly to the mentor, who evaluated the work.
+* -​|The work involved manual testing of a banking application. The application was used by customers to manage bank accounts, make transfers, view transaction history and other banking operations. My role was to perform <u>functional testing</u> to ensure that all functions of the application worked as required. As part of the project, I prepared <u>test scenarios for key functions of the application</u>: login, transfers, account management. I reported the bugs I found directly to the mentor, who evaluated the work.-​|
 
 [**Link to functional specification**](https://docs.google.com/spreadsheets/d/142uLph3ahdORQ-2q3kC1SgwVxa-NeoTXJ7m5UKQW0tc/edit?gid=0#gid=0)
 	
