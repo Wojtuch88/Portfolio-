@@ -14,7 +14,7 @@ During my work I have learned: **SQL**, **API**, **Chrome DevTools**, **Jira**, 
 
 
 
-# :arrow_right: |​- **PROJECTS** -​|
+# :arrow_right: **PROJECTS** 
 ![4989831](https://github.com/user-attachments/assets/5444c93c-7db4-49e0-a307-6c1bc5f130b3)
 ## :one: Utest - commercial project
 <small>(August 2022 - September 2022)</small>
@@ -95,7 +95,7 @@ Project is created with:
 * :+1: Getting to know Postman and working with API
   
 ## Test Plan
-[**Link to Test Plan for project Kau$ta**]([https://docs.google.com/spreadsheets/d/142uLph3ahdORQ-2q3kC1SgwVxa-NeoTXJ7m5UKQW0tc/edit?gid=0#gid=0](https://docs.google.com/document/d/1-60u1lKJpuyK2SoIQac2bLj-JyARjuY1/edit?usp=sharing&ouid=107537541248058964090&rtpof=true&sd=true))
+[**Link to Test Plan for project Kapu$ta**](https://docs.google.com/spreadsheets/d/142uLph3ahdORQ-2q3kC1SgwVxa-NeoTXJ7m5UKQW0tc/edit?gid=0#gid=0](https://docs.google.com/document/d/1-60u1lKJpuyK2SoIQac2bLj-JyARjuY1/edit?usp=drive_link&ouid=107537541248058964090&rtpof=true&sd=true)
 
 ## List of completed tasks 
 * [ ] **Positive Tests**
