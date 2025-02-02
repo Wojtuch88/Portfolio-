@@ -162,26 +162,49 @@ Project is created with:
 ## List of completed tasks 
 * [ ] **Screen of HTML**
 
-![Screen of HTML code - screen nr 1](2025-01-30%2017%2002%2035.jpg)
-
+![Screen of HTML code - screen nr 1]
 ![2025-01-30 17 02 35](https://github.com/user-attachments/assets/b4813ce7-27ef-478c-863a-755f8944f04a)
 
 
-![Screen nr 2](2025-01-30%2017%2004%2050.jpg)
-![Screen nr 3](2025-01-30%2017%2005%2056.jpg)
-![Screen nr 4](2025-01-30%2017%2006%2028.jpg)
-![Screen nr 5](2025-01-30%2017%2007%2004.jpg)
-![Scrren nr 6](2025-01-30%2017%2007%2030.jpg)
-![Screen nr 7](2025-01-30%2017%2007%2059.jpg)
-![Screen nr 8](2025-01-30%2017%2008%2031.jpg)
+![Screen nr 2]
+![2025-01-30 17 04 50](https://github.com/user-attachments/assets/280c7099-d253-4626-ab89-08bd9d1845f1)
+
+![Screen nr 3]
+![2025-01-30 17 05 56](https://github.com/user-attachments/assets/5ddc279c-d7f4-424c-be47-eb267ee0f2e9)
+
+![Screen nr 4]
+![2025-01-30 17 06 28](https://github.com/user-attachments/assets/cb67db4a-8ca2-41c8-b6e0-9dee9755e618)
+
+![Screen nr 5]
+![2025-01-30 17 07 04](https://github.com/user-attachments/assets/7d4a315d-e98a-4d61-a05a-0385b2951a5d)
+
+![Scrren nr 6]
+![2025-01-30 17 07 30](https://github.com/user-attachments/assets/5086c628-e412-4644-9707-78c1ee76054a)
+
+![Screen nr 7]
+![2025-01-30 17 07 59](https://github.com/user-attachments/assets/d858a76b-c166-4347-93c8-3c9cff55b932)
+
+![Screen nr 8]
+![2025-01-30 17 08 31](https://github.com/user-attachments/assets/f3349e87-0ac0-4921-adda-3eeba3082d92)
+
 
 * [ ] **Screen of CSS** 
 
-![Screen nr 1](2025-01-30%2017%2021%2017.jpg)
-![Screen nr 2](2025-01-30%2017%2022%2016.jpg)
-![Screen nr 3](2025-01-30%2017%2022%2052.jpg)
-![Screen nr 4](2025-01-30%2017%2023%2022.jpg)
-![Screen nr 5](2025-01-30%2017%2023%2051.jpg)
+![Screen nr 1]
+![2025-01-30 17 21 17](https://github.com/user-attachments/assets/57c6ceaf-cc93-4a71-9a25-b7492a818bf0)
+
+![Screen nr 2]
+![2025-01-30 17 22 16](https://github.com/user-attachments/assets/eaffc40e-bc7c-49a7-996c-e517143b066b)
+
+![Screen nr 3]
+![2025-01-30 17 22 52](https://github.com/user-attachments/assets/1462b13f-e5ce-4d87-a05d-73e9d8ca4908)
+
+![Screen nr 4]
+![2025-01-30 17 23 22](https://github.com/user-attachments/assets/ae86ea3b-36e0-484e-8955-d25649532bea)
+
+![Screen nr 5]
+![2025-01-30 17 23 51](https://github.com/user-attachments/assets/7c956a71-5d23-479a-bbb3-8c123ba08d13)
+
 
 
 ## :six: Website
