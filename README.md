@@ -14,7 +14,7 @@ During my work I have learned: **SQL**, **API**, **Chrome DevTools**, **Jira**, 
 
 
 
-# :arrow_right: |​-**PROJECTS**-​|
+# :arrow_right: |​- **PROJECTS** -​|
 ![4989831](https://github.com/user-attachments/assets/5444c93c-7db4-49e0-a307-6c1bc5f130b3)
 ## :one: Utest - commercial project
 <small>(August 2022 - September 2022)</small>
